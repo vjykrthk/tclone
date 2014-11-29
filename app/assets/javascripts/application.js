@@ -16,6 +16,7 @@
 //= require angular-resource/angular-resource
 //= require angular-route/angular-route
 //= require angular-rails-templates
+//= require angular-cookie/angular-cookie
 //= require angular-cookies/angular-cookies
 //=	require ng-token-auth/dist/ng-token-auth
 //= require ng-form-data/ng-form-data
@@ -45,5 +46,9 @@
 //= require sections/user_profile/module
 //= require sections/user_profile/user_profile
 //= require sections/user_profile/user_profile_controller
+
+//= require sections/main_profile/module
+//= require sections/main_profile/main_profile
+//= require sections/main_profile/main_profile_controller
 
 
